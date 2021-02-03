@@ -2,7 +2,7 @@ def add_sep(sep, len):
     print('Конец задания')
     print(sep * len)
 
-a = 'Hello world'
+a = 'Hello, World!'
 b = int(input('Tell me your lucky number!'))
 c = input('What is your name?')
 
