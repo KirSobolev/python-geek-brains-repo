@@ -18,6 +18,7 @@ def my_calc():
                     result += int(el)
                 else:
                     check = False
+                    break
             except ValueError:
                 print('Введенные данные должны быть числами, либо специальном знаком завершения программы.')
         print(result)
