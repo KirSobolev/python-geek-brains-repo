@@ -1,0 +1,8 @@
+Smith - 1337
+Jones - 123123
+Taylor - 20000
+Brown - 123412312
+Williams - 20
+Wilson - 111111
+Johnson - 200000
+Davies - 13000
